@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik Janjal
-- 👀 I’m interested in frontend engineering and ui/ux design 
-- 🌱 I’m currently learning ui/ux designi
+- 👀 I’m interested in Frontend engineering and UI/UX design 
+- 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to collaborate on with some amazing oraganization
 
 <!---
